@@ -2,4 +2,4 @@
 
 Server experimentation
 
-written in java
+HTTP server written in java
